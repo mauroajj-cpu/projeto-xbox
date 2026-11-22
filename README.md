@@ -110,12 +110,6 @@ Valores calculados diretamente da base, em reais (R$):
 3. **Clique no menu interativo** e selecione a aba desejada, **Anual**, **Monthly** ou **Quarterly**.
 4. Veja os valores totais arrecadados pelas inscrições.
 
-   | Tabela dinâmica | Linhas | Valores | Filtro |
-   |-----------------|--------|---------|--------|
-   | `tbl_annual_total` | `Auto Renewal` | Soma de `Total Value` | `Subscription Type` |
-   | `tbl_easeasonpass_total` | `Plan` | Soma de `EA Play Season Pass Price` | `Subscription Type` |
-   | `Tabela dinâmica9` | `Plan` | Soma de `Minecraft Season Pass Price` | `Subscription Type` |
-
 ---
 
 ## Aprendizados
