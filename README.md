@@ -122,5 +122,8 @@ Além da prática com planilhas, o projeto permitiu exercitar a estruturação d
 ## Autor!
 
 * [@mauroajj-cpu](https://github.com/mauroajj-cpu)
+* [Linkedin](https://www.linkedin.com/in/mauro-jansen-204488104/)
+* [Gmail](mailto:mauroajj@gmail.com?subject=Olá,%20Contrate-me%21%21)
+* [Whatsapp](https://wa.me/5598985947388)
 
 ---
